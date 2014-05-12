@@ -17,7 +17,7 @@ public class Gustada {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        System.out.println("La Gustada v1.1");
+        System.out.println("La Gustada v1.2");
     }
     
 }
